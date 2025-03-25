@@ -21,7 +21,7 @@
 
 * Launch an ec2 instance whose name is master node
 * Launch one more ec2 instance whose name is worker node
-* Install docker on both side
+* Install docker on both side (sudo apt-get install -y docker.io)
 
 * Run on both nodes
 
