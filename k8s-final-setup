@@ -15,7 +15,7 @@
 * Kubelet = Creates a pods but in that containers are created by docker
 
 * Network plugin : 1] calico
-		               2] flannel
+		   2] flannel
 
 * Installation :
 
