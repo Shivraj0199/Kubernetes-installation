@@ -4,6 +4,8 @@
 
 # Execute on Master node 
 
+# Add port 6443 on both master and worker security group
+
 # 1. Disable Swap: Required for Kubernetes to function correctly.
 echo "Disabling swap..."
 sudo swapoff -a
