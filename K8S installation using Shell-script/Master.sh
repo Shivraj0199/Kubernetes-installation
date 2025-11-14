@@ -2,7 +2,7 @@
 
 #!/bin/bash
 
-# Execute on Both "Master" & "Worker" Nodes:
+# Execute on Master node 
 
 # 1. Disable Swap: Required for Kubernetes to function correctly.
 echo "Disabling swap..."
