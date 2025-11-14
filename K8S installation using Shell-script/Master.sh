@@ -1,3 +1,5 @@
+## note : Use t2.medium (2 vCPU, 4 GB RAM), t3.medium, t2.large, or higher
+
 #!/bin/bash
 
 # Execute on Both "Master" & "Worker" Nodes:
