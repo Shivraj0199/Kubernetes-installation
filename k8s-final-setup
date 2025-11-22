@@ -53,4 +53,4 @@
 
 * On Master Node :
 
-	1] kubectl get nodes
+	1] kubectl get node
