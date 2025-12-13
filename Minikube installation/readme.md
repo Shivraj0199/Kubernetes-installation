@@ -31,5 +31,5 @@ sudo install minikube-linux-amd64 /usr/local/bin/minikube
 
 ## Step 6: Check nodes
 
-``` kubectl get nodes ```
+``` kubectl get nods ```
 
