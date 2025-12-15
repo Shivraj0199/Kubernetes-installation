@@ -109,5 +109,5 @@ echo "Generating join command for worker nodes..."
 kubeadm token create --print-join-command
 
 
-echo "Kubernetes Master Node setup complete."
+echo "Kubernetes Master Node setup complet."
 
